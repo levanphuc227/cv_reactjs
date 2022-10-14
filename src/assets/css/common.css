@@ -1,0 +1,33 @@
+
+.grid {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.grid__row {
+    display: flex;
+}
+.width3{
+    width: 30%;
+}
+.width7{
+    width: 70%;
+}
+.width2{
+    width: 20%;
+}
+.width8{
+    width: 80%;
+}
+.txt-bold{
+    font-weight: bold !important;
+}
+.font-s-32{
+    font-size: 32px!important;
+}
+.font-s-24{
+    font-size: 24px!important;
+}
+.txt-uppercase{
+    text-transform: uppercase !important;
+}
